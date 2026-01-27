@@ -1,10 +1,10 @@
-# ☁️ MehdiCloud – Mon Cloud Personnel Sécurisé avec Raspberry Pi 4 & Nextcloud
+# MehdiCloud – Mon Cloud Personnel Sécurisé avec Raspberry Pi 4 & Nextcloud
 
 This project is a self-hosted personal cloud solution, built on a Raspberry Pi 4 using Nextcloud, secured with Fail2Ban, UFW, and (soon) HTTPS via Let’s Encrypt.
 
 ---
 
-## 🎯 Objectifs du projet
+## Objectifs du projet
 
 - Host a personal Nextcloud instance on a Raspberry Pi 4.
 - Secure server access using firewall, SSH, and Fail2Ban.
@@ -13,7 +13,7 @@ This project is a self-hosted personal cloud solution, built on a Raspberry Pi 4
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 | Composant     | Version / Détail           |
 |---------------|----------------------------|
@@ -28,7 +28,7 @@ This project is a self-hosted personal cloud solution, built on a Raspberry Pi 4
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 ```
 MehdiCloud/
 ├── scripts/
